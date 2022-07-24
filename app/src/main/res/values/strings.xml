@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Joseph\'s Application</string>
+    <string name="first_intro">Hello my name is Joseph, I\'m a Computer Science Student and a beginner Android Developer.</string>
+    <color name="cord">#36393e</color>
+</resources>
